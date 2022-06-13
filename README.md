@@ -93,7 +93,8 @@ GITHUB: https://github.com/nektarios25ma/LAB-ECO-MULTIPLE-USE/blob/main/README.m
 
 1. CO2 σε ppm  2.φωτός σε lux  3.θερμοκρασίας σε Celsious  4.υγρασίας % για την μελέτη του φαινομένου της φωτοσύνθεσης σε μικρό-μίνι θερμοκήπιο μέσα στο εργαστήριο.
 
-Μια πρώτη δοκιμή δείτε στο : video link https://drive.google.com/file/d/1Eme5cT5fwTL4phVG0mjtipOvKFgxDoO4/view
+Μια πρώτη δοκιμή δείτε στο : video link 
+https://drive.google.com/file/d/1J-bW9p7WnPqtOV24Ilc-qzYuz5E1nNtc/view?usp=sharing
 
 
 
