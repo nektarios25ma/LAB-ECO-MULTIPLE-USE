@@ -19,7 +19,7 @@ SOFTWARE
 
 1)    ARDUINO IDE
 
-2)    PROCESSING IDE
+2)    Raspberry Pi OS (Raspbian) 
 
 Κύκλωμα:
 
