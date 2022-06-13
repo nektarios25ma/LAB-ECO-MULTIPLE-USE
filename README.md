@@ -23,7 +23,7 @@ SOFTWARE
 
 Κύκλωμα:
 
-link 
+link   https://github.com/nektarios25ma/LAB-ECO-MULTIPLE-USE/blob/main/circuit_all.png 
 
 ΥΛΙΚΑ
 
