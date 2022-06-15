@@ -106,5 +106,6 @@ GITHUB: https://github.com/nektarios25ma/LAB-ECO-MULTIPLE-USE/blob/main/README.m
 Μια πρώτη δοκιμή δείτε στο : video link 
 https://drive.google.com/file/d/1J-bW9p7WnPqtOV24Ilc-qzYuz5E1nNtc/view?usp=sharing
 
+ στο you tube με υπότιτλους : https://youtube.com/shorts/p183HJfYlis
 
 
