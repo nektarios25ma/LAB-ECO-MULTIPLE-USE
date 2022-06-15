@@ -95,10 +95,12 @@ GITHUB: https://github.com/nektarios25ma/LAB-ECO-MULTIPLE-USE/blob/main/README.m
 
 (α) Στην διαδικασία της φωτοσύνθεσης:
 
-Θα χρειαστούμε ένα rasberry 3 ή 4 το οποίο θα λαμβάνει ενσύρματα δεδομένα από το arduino {video-link*tutorial -σωστή εγκατάσταση arduino ide στο rasberry} και θα τα προβάλει σε μια οθόνη ως γραφική παράσταση 4 δεδομένων:
-Επίσης μπορούμε από οποιοδήποτε σημείο του κόσμου  να ελένξουμε το rasberry και κατ'επέκταση το arduino όπως και να δο΄ύμε την γραφική παράσταση των δεδομένων: CO2 ppm, lux (light), humidity%, temp(Celcius).
+Θα χρειαστούμε ένα rasberry 3 ή 4 το οποίο θα λαμβάνει ενσύρματα δεδομένα από το arduino {video-link*tutorial -σωστή εγκατάσταση arduino ide στο rasberry} και θα τα προβάλει σε μια οθόνη ως γραφική παράσταση 4 δεδομένων: 
 
 1. CO2 σε ppm  2.φωτός σε lux  3.θερμοκρασίας σε Celsious  4.υγρασίας % για την μελέτη του φαινομένου της φωτοσύνθεσης σε μικρό-μίνι θερμοκήπιο μέσα στο εργαστήριο.
+
+
+Επίσης μπορούμε από οποιοδήποτε σημείο του κόσμου  να ελένξουμε το rasberry και κατ'επέκταση το arduino όπως και να δο΄ύμε την γραφική παράσταση των δεδομένων: CO2 ppm, lux (light), humidity%, temp(Celcius).
 
 Μια πρώτη δοκιμή δείτε στο : video link 
 https://drive.google.com/file/d/1J-bW9p7WnPqtOV24Ilc-qzYuz5E1nNtc/view?usp=sharing
