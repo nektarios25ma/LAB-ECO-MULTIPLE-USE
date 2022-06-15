@@ -1,4 +1,4 @@
-#include <Arduino.h>
+#include <Arduino.h>      // FROM Nektarios Kourakis ,Chania CRETE 
 #include "MHZ19.h"                                        
 #include <SoftwareSerial.h>                                // Remove if using HardwareSerial
 #include <Wire.h>
@@ -17,8 +17,8 @@ Adafruit_TSL2591 tsl = Adafruit_TSL2591(2591); //2591//pass in a number for the 
 #define RX_PIN 10                                         // Rx pin which the MHZ19 Tx pin is attached to 10
 #define TX_PIN 11                                          // Tx pin which the MHZ19 Rx pin is attached to 11
 #define BAUDRATE 9600                                      // Device to MH-Z19 Serial baudrate (should not be changed)
-#define pinFUN 5   
-#define pinBUZZ 6  
+#define pinFUN 5         //FOR LAB USAGE , ON(HIGH) WHEN AIR ITS FULL OFF CO2 OR VERY LOW CO2 CONCETRATION ,N.K.
+#define pinBUZZ 6         //FOR CLASS MODE , warning for high CO2 ppm concetration or for low lights -->bad for reading purpose ,N.K.
 MHZ19 myMHZ19;                                             // Constructor for library
 SoftwareSerial mySerial(RX_PIN, TX_PIN);                   // (Uno example) create device to MH-Z19 serial
    
@@ -41,7 +41,7 @@ delay(10); //延时10毫秒
 lcd.backlight(); //开LCD1602的背光灯
 lcd.clear(); //清除屏幕
 }
-void configureSensor(void)
+void configureSensor(void)                 //for light sensor 
 {
   // You can change the gain on the fly, to adapt to brighter/dimmer light situations
  // tsl.setGain(TSL2591_GAIN_LOW);    // 1x gain (bright light)
@@ -82,7 +82,7 @@ void configureSensor(void)
 // Serial.println(F("------------------------------------"));
 //  Serial.println(F(""));
 }
-int sensorValue;
+int sensorValue;     //pin to A0 -->  trick to change mode ,0 if you want class mode or 1 for lab usage (midle pin of switch connected to A0)
 
 void setup() 
 {
