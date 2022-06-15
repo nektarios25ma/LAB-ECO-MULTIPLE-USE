@@ -108,9 +108,8 @@ GITHUB: https://github.com/nektarios25ma/LAB-ECO-MULTIPLE-USE/blob/main/README.m
 Επίσης μπορούμε από οποιοδήποτε σημείο του κόσμου  να ελέγξουμε το rasberry  και κατ'επέκταση το arduino όπως και να δο΄ύμε την γραφική παράσταση των δεδομένων: CO2 ppm, lux (light), humidity%, temp(Celcius).
 Ο τρόπος που γίνεται εδώ : https://www.youtube.com/watch?v=OE2FC1aSAqM και εδώ : https://www.circuitbasics.com/access-raspberry-pi-desktop-remote-connection/
 
-Μια πρώτη δοκιμή δείτε στο : video link 
-https://drive.google.com/file/d/1J-bW9p7WnPqtOV24Ilc-qzYuz5E1nNtc/view?usp=sharing
+Μια πρώτη δοκιμή δείτε στο 
 
  στο you tube με υπότιτλους : https://youtube.com/shorts/p183HJfYlis
 
-
+(γ) Σε λειτουργία τάξης –class mode- μια πρώτη δοκιμή: https://www.youtube.com/watch?v=6onj01HUsmo
