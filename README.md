@@ -100,7 +100,8 @@ GITHUB: https://github.com/nektarios25ma/LAB-ECO-MULTIPLE-USE/blob/main/README.m
 1. CO2 σε ppm  2.φωτός σε lux  3.θερμοκρασίας σε Celsious  4.υγρασίας % για την μελέτη του φαινομένου της φωτοσύνθεσης σε μικρό-μίνι θερμοκήπιο μέσα στο εργαστήριο.
 
 
-Επίσης μπορούμε από οποιοδήποτε σημείο του κόσμου  να ελένξουμε το rasberry και κατ'επέκταση το arduino όπως και να δο΄ύμε την γραφική παράσταση των δεδομένων: CO2 ppm, lux (light), humidity%, temp(Celcius).
+Επίσης μπορούμε από οποιοδήποτε σημείο του κόσμου  να ελένξουμε το rasberry  και κατ'επέκταση το arduino όπως και να δο΄ύμε την γραφική παράσταση των δεδομένων: CO2 ppm, lux (light), humidity%, temp(Celcius).
+Ο τρόπος που γίνεται εδώ : https://www.youtube.com/watch?v=OE2FC1aSAqM και εδώ : https://www.circuitbasics.com/access-raspberry-pi-desktop-remote-connection/
 
 Μια πρώτη δοκιμή δείτε στο : video link 
 https://drive.google.com/file/d/1J-bW9p7WnPqtOV24Ilc-qzYuz5E1nNtc/view?usp=sharing
