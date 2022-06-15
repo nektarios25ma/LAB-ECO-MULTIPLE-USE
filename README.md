@@ -29,6 +29,8 @@ SOFTWARE
 
 γ)Διακόπτης-switch με 3 pin για την επιλογή χρήσης LAB MODE (1) OR CLASS MODE (0) circuit link: https://github.com/nektarios25ma/LAB-ECO-MULTIPLE-USE/blob/main/RELAYfunCONNECTION.png
 
+Πρόγραμμα-sketch arduino,link: https://github.com/nektarios25ma/LAB-ECO-MULTIPLE-USE/blob/main/TESTSWITCHSENARIO3.ino
+
 ΥΛΙΚΑ
 
 1)ΑΙΣΘΗΤΗΡΑΣ CO2
